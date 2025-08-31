@@ -1,7 +1,9 @@
 **YouTube Analytics Power BI Dashboard**
+
 A complete step-by-step guide to recreate and understand the YouTube Analytics Dashboard built in Power BI Desktop. This README explains the problem statement, tasks performed, solution delivered, data model, DAX measures, visuals, and how to extend the report.
 
 **📌 Business Problem**
+
 With millions of videos uploaded, it was difficult to understand what makes a video trend on YouTube.
 The challenges included:
 -Tracking the time gap between Publish Date and Trending Date.
